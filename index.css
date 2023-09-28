@@ -1,0 +1,15 @@
+body{background: rgb(202, 149, 70);
+    background: radial-gradient(circle, rgba(202, 149, 70) 0%, rgba(202, 149, 70) 100%);
+    }
+
+    img{
+        border-radius: 50% ;
+    }
+
+    body {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #ffffff;
+    }
+    
